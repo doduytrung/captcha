@@ -1,0 +1,20 @@
+{
+  "name": "captcha",
+  "version": "1.0.0",
+  "description": "captcha demo",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "captcha"
+  ],
+  "author": "Do Duy Trung",
+  "license": "FREE",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "consolidate": "^0.12.1",
+    "express": "^4.12.3",
+    "hogan": "^1.0.2"
+  }
+}
